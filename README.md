@@ -44,10 +44,10 @@
  <h3 align="left">Connect with me:</h3>
  <p align="left">
   <a href="https://discord.c99.nl/widget/theme-1/680985034685153298.png" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons.flaticon.com/png/512/4945/premium/4945914.png?token=exp=1650089547~hmac=90dcdd21a7da3958fd8341b304eda33f" width="50" height="50"/>
+    <img src="https://cdn-icons.flaticon.com/png/512/4945/premium/4945914.png?token=exp=1650089547~hmac=90dcdd21a7da3958fd8341b304eda33f" width="40" height="40"/>
   </a>
   
   <a href="https://www.instagram.com/dksh_jain/" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" width="50" height="50"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" width="35" height="35"/>
   </a>
 </p>
