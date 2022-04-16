@@ -4,7 +4,7 @@
 ---
 
 - 🔭 I’m currently working on **a Spotify-Add-Blocker using CV2 and Python!**
-- 🌱 I’m currently learning **JavaScript, Python And C#**
+- 🌱 I’m currently learning **JavaScript And C#**
 - 📫 How to reach me: **Through my discord and instagram!**
 - <img src="https://discord.c99.nl/widget/theme-1/680985034685153298.png"/></a>
 
