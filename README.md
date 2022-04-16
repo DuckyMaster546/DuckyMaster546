@@ -5,10 +5,9 @@
 
 - 🔭 I’m currently working on **a Spotify-Add-Blocker using CV2 and Python!**
 - 🌱 I’m currently learning **JavaScript And C#**
-- 📫 How to reach me: **Through my discord and instagram!**
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-1/680985034685153298.png" align="center"/></a>
-</p>
+- 📫 How to reach me: **Through my discord and instagram!** (Scroll Down!)
+- 🧐 I am looking to collobarate with other devs on projects!
+
 
 
 ---
@@ -38,6 +37,17 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="csharp" width="40" height="40"/>
   </a>
   
-  
-
+ 
  </p>
+ 
+ --- 
+ <h3 align="left">Connect with me:</h3>
+ <p align="left">
+  <a href="https://discord.c99.nl/widget/theme-1/680985034685153298.png" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons.flaticon.com/png/512/4945/premium/4945914.png?token=exp=1650089547~hmac=90dcdd21a7da3958fd8341b304eda33f" width="50" height="50"/>
+  </a>
+  
+  <a href="https://www.instagram.com/dksh_jain/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384031.png" width="50" height="50"/>
+  </a>
+</p>
