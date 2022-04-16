@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a Spotify-Add-Blocker using CV2 and Python!**
 - 🌱 I’m currently learning **JavaScript And C#**
-- 📫 How to reach me: **Through my discord and instagram!** (Scroll Down!)
+- 📫 How to reach me: **through my discord and instagram!** (Scroll Down!)
 - 🧐 I am looking to collobarate with other devs on projects!
 - Goal: ***Create a Start-Up***
 
