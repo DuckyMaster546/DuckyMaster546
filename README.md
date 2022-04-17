@@ -40,6 +40,13 @@
     <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld" alt="csharp" width="40" height="40">
   </a>
   
+  <a href="https://www.blender.org/" target="_black" rel="noreferrer">
+    <img src="https://www.blender.org/wp-content/uploads/2020/07/blender_community_logo_white.png" alt="csharp" width="40" height="">
+  </a>
+  
+  <a href="https://www.sublimetext.com/" target="_black" rel="noreferrer">
+    <img src="https://pngset.com/images/sublime-text-icon-label-symbol-logo-trademark-transparent-png-666171.png" width="40" height="40">
+   </a?
   
 </p>
  
