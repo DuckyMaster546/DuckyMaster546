@@ -68,6 +68,15 @@
     <img src="https://img.icons8.com/color/2x/git.png" width="40" height="40">
   </a>
   
+  <a href="https://www.sketchup.com/" target="_black" rel="noreferrer">
+    <img src="https://img.icons8.com/color/2x/google-sketchup.png" width="40" height="40">
+  </a>
+  
+  <a href="https://opencv.org/" target="_black" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/2x/opencv.png" width="40" height="40">
+  </a>
+  
+  
   
 
 </p>
