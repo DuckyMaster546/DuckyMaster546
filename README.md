@@ -80,6 +80,9 @@
     <img src="https://img.icons8.com/fluency/2x/selenium-test-automation.png" width="40" height="40">
   </a>
   
+  <a href="https://github.com/nextcord/nextcord" target="_black" rel="noreferrer">
+    <img src="https://img.icons8.com/color/2x/discord-logo.png" width="40" height="40">
+  </a>
   
   
   
