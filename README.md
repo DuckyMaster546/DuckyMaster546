@@ -46,7 +46,11 @@
   
   <a href="https://www.sublimetext.com/" target="_black" rel="noreferrer">
     <img src="https://pngset.com/images/sublime-text-icon-label-symbol-logo-trademark-transparent-png-666171.png" width="40" height="40">
-   </a?
+  </a>
+    
+  <a href="https://code.visualstudio.com/" target="_black" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/2x/visual-studio.png" width="40" height="40">
+  </a>
   
 </p>
  
