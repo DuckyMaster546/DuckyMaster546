@@ -56,8 +56,20 @@
     <img src="https://img.icons8.com/color/2x/firebase.png" width="40" height="40">
   </a>
   
- 
+  <a href="https://ide.goorm.io/" target="_black" rel="noreferrer">
+    <img src="https://img.icons8.com/color/2x/code.png" width="40" height="40">
+  </a>
   
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_black" rel="noreferrer">
+    <img src="https://img.icons8.com/fluency/2x/database.png" width="40" height="40">
+  </a>
+  
+  <a href="https://git-scm.com/" target="_black" rel="noreferrer">
+    <img src="https://img.icons8.com/color/2x/git.png" width="40" height="40">
+  </a>
+  
+  
+
 </p>
  
  --- 
