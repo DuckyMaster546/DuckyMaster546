@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there! My Name Is Kidnapper!</h1>
-<h4 align="center">I am a 14 year old, programming enthusiast! I know App and Web Development and learning multiple languages! Will be posting multiple projects in a few weeks as I am continously working on multiple projects right now!</h3>
+<h4 align="center">I am a 14 years old, programming enthusiast! I know App and Web Development and learning multiple languages! Will be posting multiple projects in a few weeks as I am continously working on multiple projects right now!</h3>
 
 ---
 
